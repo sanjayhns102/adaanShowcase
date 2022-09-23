@@ -2,7 +2,7 @@
 
 First of all, install the node module ( npm i --save )
 Developed a Site Manage Portal backend using ( Node.js, Express.js, MongoDB ).
-Also used some packages like( JSON WEB, Token)
+Also used some packages like( JWT, bycript, config, mongoose, express-validator)
 Bycrpt
 
 
